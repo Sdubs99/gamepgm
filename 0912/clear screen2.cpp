@@ -10,7 +10,7 @@
 	 system("cls");
 	 for(i=1;i<=9;i++)
 	 printf("%d*%d=%d\n", j, i, j*i);
-	 printf("¾Æ¹«Å°³ª´©¸£½Ã¿À.\n");
+	 printf("ì•„ë¬´í‚¤ë‚˜ ëˆ„ë¥´ì‹œì˜¤.\n");
 	 getch();
  	}
  	return 0;
