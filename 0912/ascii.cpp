@@ -10,10 +10,10 @@
 	 if (chr==0 || chr == 0xe0) 
 	 {
 		 chr=getch();
-		 printf("Ȯ��Ű code=%d\n", chr);
+		 printf("확장키 code=%d\n", chr);
 	 }
 	 else
-	 	printf("�ƽ�Ű code=%d\n", chr);
+	 	printf("아스키 code=%d\n", chr);
  	}
 	while(1);
 	
