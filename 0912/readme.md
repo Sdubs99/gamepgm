@@ -30,4 +30,4 @@ random number3 - 1~45까지 중복 없는 난수 생성 후 오름차순으로 �
 
 Variable Arguments - 가변인수 예제
 
-test - 배열의 개념 알아보기 예제
+array - 배열의 개념 알아보기 예제
