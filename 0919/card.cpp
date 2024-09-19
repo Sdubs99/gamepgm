@@ -20,7 +20,7 @@ int main(void){
 
 void make_card(trump m_card[]){
 	int i, j;
-	char shape[4][3] = {"¢¼", "¡ß", "¢¾", "¢À"};
+	char shape[4][3] = {"â™ ", "â—†", "â™¥", "â™£"};
 	
 	for(i=0; i<4; i++ ){
 		
